@@ -1,0 +1,5 @@
+C:/Codefield/Code_Qt/calculator/cmake-build-debug/CMakeFiles/Calculator.dir
+C:/Codefield/Code_Qt/calculator/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Codefield/Code_Qt/calculator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Codefield/Code_Qt/calculator/cmake-build-debug/CMakeFiles/Calculator_autogen_timestamp_deps.dir
+C:/Codefield/Code_Qt/calculator/cmake-build-debug/CMakeFiles/Calculator_autogen.dir
